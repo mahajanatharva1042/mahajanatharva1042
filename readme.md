@@ -1,4 +1,4 @@
-# This is Atharva.Mahajan A Specialized Backend Developer  
+# This is Atharva.Mahajan A Specialized Hardware & Backend Developer  
 <img src="https://komarev.com/ghpvc/?username=mahajanatharva1042&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views"/>
 
 <p align="center">
